@@ -137,7 +137,7 @@ body {
     background-color: #E5E7EB;
     display: flex;
     justify-content: center;
-    padding-top: 150px;
+    padding-top: 100px;
 }
 
 .quote {
@@ -145,6 +145,92 @@ body {
     font-size: 36px;
     color: #1F2937;
     font-style: italic;
-    width: 850px;
+    width: 820px;
     font-weight: lighter;
+}
+
+.closing-quotation-container {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+}
+
+.closing-quotation {
+    font-family: "Roboto", sans-serif;
+    font-size: 24x;
+    color: #1F2937;
+    font-weight: bolder;
+    padding-left: 600px;
+    padding-bottom: 75px;
+}
+
+.white-outside {
+    background-color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.blue-inside {
+    background-color: #3882F6;
+    width: 1200px;
+    padding-top: 25px;
+    padding-bottom: 40px;
+    margin-left: 370px;
+    border-radius: 10px;
+}
+
+.action-container {
+    display: flex;
+    justify-content: start;
+    margin-left: 125px;
+    font-size: 21px;
+    margin-top: 18px;
+}
+
+.action {
+    font-family: "Roboto", sans-serif;
+    color: #ffffff;
+    font-weight: bolder;
+}
+
+.action-bottom {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 125px;
+    margin-right: 125px;
+    align-items: flex-end;
+    margin-top: 10px;
+}
+
+.sign-up-text {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    color: #becfed;
+}
+
+.sign-up-button-bottom {
+    background-color: #3882F6;
+    border: 2px solid;
+    border-color: white;
+    border-radius: 8px;
+    height: 35px;
+    width: 125px;
+    color: #F9FAF8;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.footer-container {
+    background-color: #1F2937;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    color: white;
 }
