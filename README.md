@@ -1,1 +1,1 @@
-# Landing-Page
+This is my Landing Page project assigned by the foundations section of the Odin Project. Using HTML, CSS, and Flexbox, this project displays all of the skills I've learned in the course up until this point.
